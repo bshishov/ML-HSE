@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+ml5.1.GBM/gbm-data.csv
+ml4.1.regression/salary-train.csv
